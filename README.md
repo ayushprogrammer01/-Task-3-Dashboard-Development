@@ -30,7 +30,7 @@ Build a fully functional, interactive analytics dashboard that visualizes a reta
 ```
 Task-3-Dashboard-Development/
 │
-├── app.py              # Main Dash application (dashboard code)
+├── Dashboard.py        # Main Dash application (dashboard code)
 ├── sales_data.csv      # Dataset – 100 sales records across 2024
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
